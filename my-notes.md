@@ -19,3 +19,13 @@
   - Tolerance to frustration
     - “Being a software developer means, learning how to get frustrated every day and keep going"
 - Final Project
+
+## May 22, 2020
+- What is DevOps
+
+## May 25, 2020
+- Git & GitHub
+
+## May 27, 2020
+- Git & GitHub (cont.)
+- [Git commands](git-commands.md)
