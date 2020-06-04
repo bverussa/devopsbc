@@ -75,4 +75,42 @@
 - Setup
   - [Docker instalation on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
 
+## June 3, 2020
+- Logic
+- Logic Statment Exercises:
+
+```
+"Today is raining and the grass is wet"
+let p = "Today is raining"
+let q = "Grass is wet"
+
+Conjunction: `p ^ q` : "Today is raining AND the grass is wet"
+Disjunction: `p v q` : "Today is raining OR the grass is wet"
+Negation: `~p v ~q` : "Today is not raining OR the grass is not wet"
+
+"I won't buy toilet paper and carry it with me"
+let p = "I will buy toilet paper"
+let q = "Carry it with me"
+
+Conjunction: `~p ^ q` : "I won't buy toilet paper AND carry it with me"
+Disjunction: `~p v q` : "I won't buy toilet paper OR carry it with me"
+Negation: `p v ~q` : "I will buy toilet paper OR carry it with me"
+
+"Neither Jane or I drink"
+let j = "Jane drink"
+let i = "I drink"
+
+Conjunction: `~j v ~i` : "Neither Jane OR I drink"
+Disjunction: `~j ^ ~i` : "Neither Jane AND I drink"
+Negation: `j ^ i` : "Jane AND I drink"
+
+"The Cannucks did not win or the game is going longer"
+let p = "The Canucks won"
+let q = "The game is going longer"
+
+Conjunction: `~p v q` : "The Canucks did not win OR the game is going longer"
+Disjunction: `~p ^ q` : "The Canucks did not win AND the game is going longer"
+Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
+```
+
 [<- Go Back](README.md)
