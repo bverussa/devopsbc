@@ -74,6 +74,9 @@
 ## June 1, 2020
 - Setup
   - [Docker instalation on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
+  - [My Jenkins](http://localhost:8080)
+    - User: admin
+    - Pwd: devops
 
 ## June 3, 2020
 - Logic
