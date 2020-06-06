@@ -77,7 +77,7 @@
 
 ## June 3, 2020
 - Logic
-- Logic Statment Exercises:
+- Logic Statement Exercises:
 
 ```
 "Today is raining and the grass is wet"
@@ -112,5 +112,13 @@ Conjunction: `~p v q` : "The Canucks did not win OR the game is going longer"
 Disjunction: `~p ^ q` : "The Canucks did not win AND the game is going longer"
 Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
 ```
+
+## June 5, 2020
+- Logic (cont.)
+  - Truth Tables
+- Operating Systems
+  - Linux
+    - Permissions
+    - Folder Structure
 
 [<- Go Back](README.md)
