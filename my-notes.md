@@ -119,9 +119,25 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
 ## June 5, 2020
 - Logic (cont.)
   - Truth Tables
-- Operating Systems
+- Operating Systems (cont.)
   - Linux
     - Permissions
+      - Read, Write, Execute
+      - > rwx = 7
+      - > r = 4
+      - > w = 2
+      - > x = 1
     - Folder Structure
+      - [Linux Directory Structure](https://linuxhandbook.com/linux-directory-structure/)
+
+## June 8, 2020
+- Operating Systems (cont.)
+  - Kernel versions
+    - [kernel.org](kernel.org)
+  - Key Groups / Users
+    - root: administrator
+    - daemon: automated user OR automated system user
+  - Shell
+      
 
 [<- Go Back](README.md)
