@@ -1,0 +1,6 @@
+#!/bin/bash
+# Install My Toolbox
+
+apt-get update
+apt-get install htop
+apt-get install mc
