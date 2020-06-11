@@ -138,6 +138,10 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
     - root: administrator
     - daemon: automated user OR automated system user
   - Shell
+
+## June 10, 2020
+- Python
+
       
 
 [<- Go Back](README.md)
