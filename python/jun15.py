@@ -32,6 +32,3 @@ print(60*'=')
 car2.getCar()
 car2.addKm(14000)
 car2.showKm()
-
-if (False or False or False or False or True):
-    print('Here')
