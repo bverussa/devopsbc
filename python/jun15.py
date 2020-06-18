@@ -21,14 +21,30 @@ class Car:
     def showKm(self):
         print('Km:', self.km)
 
-car = Car('BMW', 'X5', 'M40', 2020)
-car2 = Car('Audi', 'Q5', 'Technik', 2019)
-car.getCar()
-car.addKm(1000)
-car.addKm(500)
-car.addKm(8000)
-car.showKm()
-print(60*'=')
-car2.getCar()
-car2.addKm(14000)
-car2.showKm()
+addNewCar = True
+addNewKm = True
+
+while addNewCar == True:
+    addNewKm = True
+    make = input('Make name? ')
+    model = input('Model? ')
+    trim = input("Trim? ")
+    year = input('Year? ')
+    car = Car(make, model, trim, year)
+    
+    while addNewKm == True:
+        km = int(input('Add KM: '))
+        car.addKm(km)
+        userKm = input('Add more KM? (Y/N) ')
+        
+        if (userKm in 'Nn'):
+            addNewKm = False
+
+    car.getCar()
+    car.showKm()
+    print(60*'=')
+
+    userCar = input('Add another car? (Y/N) ')
+
+    if (userCar in 'Nn'):
+            addNewCar = False
