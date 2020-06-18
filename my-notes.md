@@ -148,4 +148,7 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
 ## June 15, 2020
 - Python (cont.)
 
+## June 17, 2020
+- Python (cont.)
+
 [<- Go Back](README.md)
