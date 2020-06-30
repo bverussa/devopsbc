@@ -1,2 +1,3 @@
 python/venv
-__pycache__/
+python/flash_test/__pycache__/
+python/.idea
