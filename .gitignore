@@ -1,3 +1,4 @@
+*.DS_Store
 python/venv
-python/flash_test/__pycache__/
 python/.idea
+python/flask_test/__pycache__

@@ -166,4 +166,19 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
 ## June 29, 2020
 - Python (cont.)
 
+## June 29, 2020
+- OOP - Object Oriented Programming
+  - Classes (objects)
+    - Polymorphism
+    - Inheritance
+  - Members
+    - Attributes (Properties)
+    - Methods
+    - Messages
+    - Local Variables
+    - Access Operators
+    - Accessibility
+    - Encacpsulation
+    - Interfaces
+
 [<- Go Back](README.md)
