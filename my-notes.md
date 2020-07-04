@@ -174,6 +174,7 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
   - Members
     - Attributes (Properties)
     - Methods
+    - Constructor
     - Messages
     - Local Variables
     - Access Operators
