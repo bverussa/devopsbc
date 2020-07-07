@@ -180,6 +180,12 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
     - Access Operators
     - Accessibility
     - Encacpsulation
-    - Interfaces
+    - 
+    
+# July 3, 2020
+- OOP (cont.)
+
+# July 6, 2020
+- OOP (cont.)
 
 [<- Go Back](README.md)
