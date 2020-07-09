@@ -1,7 +1,10 @@
 class Department:
-    _name = None
-    _code = None
 
-    def __init__(self, name, code):
-        self._name = name
-        self._code = code
+    def __init__(self, name, department_code):
+        self.name = name
+        self.department_code = department_code
+        self.courses = {}
+
+    def add_course(self, course):
+        self.courses[course.course_code] = course
+        return self.courses[course.course_code]
