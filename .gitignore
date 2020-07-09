@@ -1,5 +1,4 @@
 *.DS_Store
 python/venv
 python/.idea
-python/flask_test/__pycache__
-/__pycache__/
+__pycache__/
