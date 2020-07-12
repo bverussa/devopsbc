@@ -5,5 +5,8 @@
 This repo is to learn DevOps
 
 1. [Python Exercises](python)
-  - [Hello World](python/hello-world.py)
+  - [Generic](python/generic)
+  - [Flask](python/flask)
+  - [Modules](python/modules)
+  - [OOP](python/oop)
 2. [Git Commands](git-commands.md)
