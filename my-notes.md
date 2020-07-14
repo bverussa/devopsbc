@@ -196,4 +196,7 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
 - AWS
   - EBS (Elastic Beanstalk)
 
+# July 13, 2020
+- Networking (cont.)
+
 [<- Go Back](README.md)

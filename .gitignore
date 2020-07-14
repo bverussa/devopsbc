@@ -2,6 +2,7 @@
 python/venv
 python/.idea
 virt/
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
