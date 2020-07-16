@@ -199,4 +199,49 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
 # July 13, 2020
 - Networking (cont.)
 
+# July 15, 2020
+- Networking (cont.)
+- Application Plan
+  1. Register a domain in godaddy
+  2. Use Route 53 to configure the DNS
+    * NS entries: ns-183.awsdns-22.com. ns-1088.awsdns-08.org. ns-1970.awsdns-54.co.uk. ns-744.awsdns-29.net.
+    * Run DNS checker
+    * Created an apex entry
+    * Created an www entry
+  3. Use Elastic Beanstalk as the Pipeline management
+    * Open the tutorial
+    * Created the local app
+    * Tested it locally
+    * eb init
+      * eb init -p python-3.6 mydevopsbc --region cac-central-1
+    * Installed EB CLI
+      * pip install awsebcli --upgrade
+    * Deploy
+  4. Use git as version control 
+- Pipelines examples
+  - Environment
+    - Domains
+      - DNS management
+    - Load balancer
+    - Security (firewall, SSL, keys, ssh, etc.)
+    - Version the environment
+    - Host versions pre deploy
+  - Application
+    - Python
+    - Flask
+    - pip
+  - Development
+    - Local environment (dev computer)
+      - Language (Python)
+      - IDE (vscode, pycharm, etc.)
+    - Application requirements
+    - Build
+    - Test
+    - Version control (git)
+  - Jenkins
+    - Checkout (get code from git)
+    - Build
+    - Test
+    - Deploy
+
 [<- Go Back](README.md)
