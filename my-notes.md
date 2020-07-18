@@ -244,4 +244,7 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
     - Test
     - Deploy
 
+# July 17, 2020
+- Networking (cont.)
+
 [<- Go Back](README.md)
