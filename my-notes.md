@@ -252,5 +252,22 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
 
 # July 22, 2020
 - CI/CD (cont.)
+  - Jenkins
+    - Automation tool
+    - Development
+    - Build
+    - Deployment
+    - Pipelines
+  - Ansible
+    - Configuration tool
+    - Operating system management
+    - Software instalation
+    - Creates user
+  - Vagrant
+    - Virtualization management tool
+    - Make it easier to create and share virtual machines
+  - Docker
+    - Container management tool
+- Virtualization
 
 [<- Go Back](README.md)
