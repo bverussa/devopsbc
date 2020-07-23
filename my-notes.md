@@ -268,6 +268,8 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
     - Make it easier to create and share virtual machines
   - Docker
     - Container management tool
+  - Kubernetes / Docker Swarm
+    - Container orchestration system for automating computer application deployment, scaling, and management
 - Virtualization
 
 [<- Go Back](README.md)
