@@ -272,4 +272,10 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
     - Container orchestration system for automating computer application deployment, scaling, and management
 - Virtualization
 
+# July 24, 2020
+- CI/CD (cont.)
+  - Jenkins: setup
+  - Jenkins: creating pipelines
+  - Docker: docker exec -it docker_id /bin/bash
+
 [<- Go Back](README.md)
