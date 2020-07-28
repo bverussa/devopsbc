@@ -278,4 +278,15 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
   - Jenkins: creating pipelines
   - Docker: docker exec -it docker_id /bin/bash
 
+# July 27, 2020
+- CI/CD (cont.)
+  - Jenkins (cont.)
+    1. Creating more pipelines
+      - With parameters
+      - With external shell scripts
+      - Multiple stages
+    2. Jenkins agents
+      - Setup one or more agents
+      - Multiple agents (nodes)
+
 [<- Go Back](README.md)
