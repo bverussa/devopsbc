@@ -288,5 +288,6 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
     2. Jenkins agents
       - Setup one or more agents
       - Multiple agents (nodes)
+    3. Linking Jenkins and GitHub
 
 [<- Go Back](README.md)
