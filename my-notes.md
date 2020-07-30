@@ -285,9 +285,32 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
       - With parameters
       - With external shell scripts
       - Multiple stages
-    2. Jenkins agents
+
+# July 29, 2020
+- CI/CD (cont.)
+  - Jenkins (cont.)
+    1. Creating more pipelines (cont.)
+      - Connect Jenkins and GitHub
+        - GitHub
+          - Repository
+          - Branches
+          - Pull requests
+          - Tokens (security)
+        - Jenkins
+          - Pipelines
+          - Triggers
+            - Poll trigger
+              - Scheduled
+          - SCM
+      - Setup pipeline to connect to the GitHub repo
+      - Cronjob
+      - Multiple stages
+      - Create conditionals when {}
+      - Configure post stages actions: always, success, failure
+      - Timeout conditions
+    2. SSH
+    3. Jenkins agents
       - Setup one or more agents
       - Multiple agents (nodes)
-    3. Linking Jenkins and GitHub
 
 [<- Go Back](README.md)
