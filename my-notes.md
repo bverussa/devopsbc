@@ -313,4 +313,16 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
       - Setup one or more agents
       - Multiple agents (nodes)
 
+# July 31, 2020
+- CI/CD (cont.)
+  2. Create pipeline connected to GitHub (Poll) using Webhooks as build trigger
+  2. Create pipeline connected to AWS Elastic Beanstalk (Deployment)
+  3. Install a plugin in Jenkins
+    - AWS Elastic Beanstalk Publisher
+  4. Connect the two pipelines
+    - Poll pipeline will be the one that triggers the Deployment Pipeline
+
+# August 5, 2020
+- CI/CD (cont.)
+
 [<- Go Back](README.md)
