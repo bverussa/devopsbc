@@ -325,4 +325,7 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
 # August 5, 2020
 - CI/CD (cont.)
 
+# August 7, 2020
+- Final Project
+
 [<- Go Back](README.md)
