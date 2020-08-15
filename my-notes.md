@@ -331,4 +331,12 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
 # August 10, 2020
 - SSH
 
+# August 12, 2020
+- SSH (cont.)
+- Networking (cont.)
+- Cloud
+
+# August 14, 2020
+- 
+
 [<- Go Back](README.md)
