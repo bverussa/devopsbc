@@ -337,6 +337,9 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
 - Cloud
 
 # August 14, 2020
-- 
+- [The RSA Encryption Algorithm](https://www.youtube.com/watch?v=4zahvcJ9glg)
+- [Ansible](https://www.youtube.com/watch?v=5hycyr-8EKs&feature=youtu.be)
+- SSH (cont.)
+- Ansible
 
 [<- Go Back](README.md)
