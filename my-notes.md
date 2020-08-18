@@ -342,4 +342,7 @@ Negation: `p ^ ~q` : "The Canucks won AND the game is not going longer"
 - SSH (cont.)
 - Ansible
 
+# August 17, 2020
+- Ansible (cont.)
+
 [<- Go Back](README.md)
